@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+  }
+  
+  #content {
+    padding: 20px;
+  }
+  
+  #cost-info {
+    margin-top: 10px;
+  }
+  
+  #service-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #service-list li {
+    margin: 5px 0;
+  }

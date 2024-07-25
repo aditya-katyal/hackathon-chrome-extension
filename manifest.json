@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "AWS Cost Monitor",
+    "version": "1.0",
+    "description": "Displays AWS cost and the top 5 costliest services.",
+    "permissions": ["storage", "identity"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+      }
+    },
+    "icons": {
+    }
+  }
